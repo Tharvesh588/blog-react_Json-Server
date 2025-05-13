@@ -1,0 +1,57 @@
+.w-20{
+    width: 20%;
+}
+
+.w-30{
+    width: 30%;
+}
+
+.logo-text{
+    width: 20%;
+    text-align: center;
+    cursor: pointer;
+}
+.bi{
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+}
+.menu-items{
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.story{
+    height:80px;
+    padding: 10px;
+}
+.dp{
+    height: 30px;
+    margin:2px 5px;
+}
+.images{
+    width:50%;
+    margin: 5px 0px;
+}
+.suggestion h5{
+    font-size: 18px;
+}
+
+.suggestion .dp{
+    margin-top: 0 !important;
+}
+
+.grd-border{
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: linear-gradient(45deg, teal, #004040, #00a0a0);
+}
+
+.story-dp{
+    width: 40px;
+}

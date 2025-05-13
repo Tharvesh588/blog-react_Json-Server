@@ -1,0 +1,212 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "https://i.pravatar.cc/150?img=12"
+      },
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "caption": "Beautiful sunset 🌅 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot! 📸"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "sarah_sketch",
+        "profile_pic": "https://i.pravatar.cc/150?img=24"
+      },
+      "image": "https://images.unsplash.com/photo-1602526432604-029a709eae91",
+      "caption": "Watercolor dreams 🎨✨ #ArtLife",
+      "likes": 89,
+      "comments": [
+        {
+          "user": "color_craze",
+          "comment": "This is beautiful!"
+        },
+        {
+          "user": "mike_draws",
+          "comment": "Love your color palette!"
+        }
+      ],
+      "timestamp": "2025-03-02T09:15:00Z"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "traveller.tom",
+        "profile_pic": "https://i.pravatar.cc/150?img=39"
+      },
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "caption": "Waves for days 🌊🏄‍♂️ #BeachVibes",
+      "likes": 152,
+      "comments": [
+        {
+          "user": "surf_girl",
+          "comment": "Ocean therapy 😍"
+        },
+        {
+          "user": "jake_the_ripper",
+          "comment": "That water looks amazing!"
+        }
+      ],
+      "timestamp": "2025-03-10T17:50:00Z"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "coffee.craze",
+        "profile_pic": "https://i.pravatar.cc/150?img=36"
+      },
+      "image": "https://images.unsplash.com/photo-1541167760496-1628856ab772",
+      "caption": "Starting my day the only way ☕✨ #CoffeeLover",
+      "likes": 98,
+      "comments": [
+        {
+          "user": "java_junkie",
+          "comment": "This looks so cozy!"
+        },
+        {
+          "user": "mornings_with_mia",
+          "comment": "Where’s this café?! 😍"
+        }
+      ],
+      "timestamp": "2025-03-14T08:00:00Z"
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 105,
+        "username": "petpal_daisy",
+        "profile_pic": "https://i.pravatar.cc/150?img=17"
+      },
+      "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d",
+      "caption": "Meet Charlie, my new best friend 🐶💖 #AdoptDontShop",
+      "likes": 245,
+      "comments": [
+        {
+          "user": "doggo_love",
+          "comment": "OMG SO CUTE 😍"
+        },
+        {
+          "user": "pup_paradise",
+          "comment": "Welcome to the fam Charlie!"
+        }
+      ],
+      "timestamp": "2025-03-18T11:22:00Z"
+    },
+    {
+      "id": 6,
+      "user": {
+        "id": 106,
+        "username": "biker.ben",
+        "profile_pic": "https://i.pravatar.cc/150?img=58"
+      },
+      "image": "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6",
+      "caption": "Taking the long road home 🛣️🔥 #RideOrDie",
+      "likes": 134,
+      "comments": [
+        {
+          "user": "vroom_vroom",
+          "comment": "Where’s this? Looks epic!"
+        },
+        {
+          "user": "speedster_sam",
+          "comment": "Bro this ride is goals!"
+        }
+      ],
+      "timestamp": "2025-03-20T15:40:00Z"
+    }
+  ],
+  "profile": {
+    "id": 100,
+    "username": "Tharvesh.io",
+    "profile_pic": "../src/assets/logo.png"
+  },
+  "suggestion": [
+    {
+      "id": 101,
+      "username": "john_doe",
+      "profile_pic": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": 102,
+      "username": "sarah_sketch",
+      "profile_pic": "https://i.pravatar.cc/150?img=24"
+    },
+    {
+      "id": 103,
+      "username": "traveller.tom",
+      "profile_pic": "https://i.pravatar.cc/150?img=39"
+    },
+    {
+      "id": 104,
+      "username": "coffee.craze",
+      "profile_pic": "https://i.pravatar.cc/150?img=36"
+    },
+    {
+      "id": 105,
+      "username": "petpal_daisy",
+      "profile_pic": "https://i.pravatar.cc/150?img=17"
+    },
+    {
+      "id": 106,
+      "username": "naveen_daisy",
+      "profile_pic": "https://i.pravatar.cc/150?img=37"
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "https://i.pravatar.cc/150?img=12"
+      },
+      "image": "https://picsum.photos/200/300?random=1"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "sarah_sketch",
+        "profile_pic": "https://i.pravatar.cc/150?img=24"
+      },
+      "image": "https://picsum.photos/200/300?random=2"
+      
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "traveller.tom",
+        "profile_pic": "https://i.pravatar.cc/150?img=39"
+      },
+      "image": "https://picsum.photos/200/300?random=3"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "coffee.craze",
+        "profile_pic": "https://i.pravatar.cc/150?img=36"
+      },
+      "image": "https://picsum.photos/200/300?random=4"
+    }
+  ]
+}

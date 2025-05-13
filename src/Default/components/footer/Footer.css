@@ -1,0 +1,35 @@
+footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: teal;
+    margin: 20px 0px 1px 0;
+}
+
+.f {
+    padding: 1rem;
+    color: whitesmoke;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    max-width: calc(100% / 3.32);
+}
+
+ul{
+    line-height: 2rem;
+    padding-inline-start: 0px;
+}
+
+.f a{
+    font-weight: 600;
+    font-family: arial,Poppins;
+    text-decoration: underline;
+    color: whitesmoke;
+    text-align: left;
+}
+
+center{
+    margin: 0;
+    background-color: teal;
+    color: whitesmoke;
+}

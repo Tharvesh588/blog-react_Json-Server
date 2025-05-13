@@ -1,0 +1,29 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+
+}
+
+.logo {
+    cursor: pointer;
+    color: teal;
+    transition: transform 15ms ease-in;
+}
+
+.menu {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: end;
+}
+
+.urls {
+    color: #3f3f3f;
+    font-weight: 500;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+    text-shadow: 2px 1px #3f3f3f;
+}
